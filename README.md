@@ -1,6 +1,7 @@
 # 🧠 ESC WP‑1625 (Brushed) Control via ESP32 (GPIO 22)
 
 This project demonstrates how to control the Hobbywing **QuicRun WP‑1625 brushed ESC** using an **ESP32** and PWM signals (GPIO 22). It includes the full arming sequence, forward/reverse logic, and insights into ESC signal processing.
+📄 [Official Hobbywing WP-1625 ESC Manual (PDF)](https://www.hobbywing.com/en/uploads/file/20240315/e8525a6a27f4e1dcbe3af554c06deac0.pdf)
 
 ---
 
